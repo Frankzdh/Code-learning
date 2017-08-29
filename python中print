@@ -1,3 +1,5 @@
+常量    数字：2  和  字符串：'string' 字有数字 和 字母，符是符号的意思。所以叫字符  
+
 print(''),中可以单引号，双引号，三引号：显示多行。
 \n \t \\ \' 转义符的应用。
 print('{name} wrote a {book}'.format(name = 'swaroop', book = 'a byte of python'))

@@ -1,3 +1,5 @@
 print(''),中可以单引号，双引号，三引号：显示多行。
 \n \t \\ \' 转义符的应用。
 print('{name} wrote a {book}'.format(name = 'swaroop', book = 'a byte of python'))
+
+print(r'hello the world\n')  R RAW  的用法

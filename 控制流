@@ -1,0 +1,7 @@
+if   条件语句
+while True:  
+else:                  while 循环语句,当条件为真的时候一直循环
+
+for i in ()     for是另外一种条件语句，在一系列对象上进行迭代(Iterates),遍历序列中的每一个项目。
+
+break  for，while 打断

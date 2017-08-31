@@ -5,3 +5,10 @@ else:                  while 循环语句,当条件为真的时候一直循环
 for i in ()     for是另外一种条件语句，在一系列对象上进行迭代(Iterates),遍历序列中的每一个项目。
 
 break  for，while 打断
+
+while for 语句下的语句都会根据条件重复执行.
+
+
+使用break退出循环。使用continue跳过部分的循环。
+
+缩进问题，if for while 缩进的问题。控制流，条件与循环下的
